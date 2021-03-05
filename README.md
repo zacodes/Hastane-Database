@@ -1,2 +1,2 @@
 # Hastane-Database
-Veritabanı projesi, sql kullanılarak oluşturulmuştur.
+Veri tabanı projesi, sql kullanılarak oluşturulmuştur.
