@@ -1,2 +1,3 @@
 # Hastane-Database
-Veri tabanı projesi, sql kullanılarak oluşturulmuştur.
+Veri tabanı yönetim sistemleri dersi iin hazırlanılan bir projedir.
+Sql kullanılarak oluşturulmuştur.
