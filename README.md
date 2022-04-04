@@ -1,5 +1,6 @@
 # Hastane-Database
 Veri tabanı yönetim sistemleri dersi için hazırlanılan bir projedir.
+
 Mssql kullanılarak oluşturulmuştur.
 
 ## Özellikler
